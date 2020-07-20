@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="af4050c6-e19a-4a63-ad47-3ba1582611f0" name="ddd" url="http://fictional-school:8888">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

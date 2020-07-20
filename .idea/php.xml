@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server debugger_id="php.debugger.ZendDebugger" host="fictional-school" id="f4a5153c-c53d-4dfd-ba12-e57a0d2bb803" name="fictional-school" port="8888" />
+    </servers>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
